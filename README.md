@@ -1,3 +1,4 @@
+<img width="1367" height="827" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/0bc7c154-6869-4888-8c8b-d37a799be311" />
 # Retail Sales Performance Dashboard 📊
 
 An advanced, end-to-end **Power BI Dashboard** developed to analyze retail store performance, product sales trends, and business efficiency. This project transforms raw retail transaction data into actionable business insights for stakeholders.
