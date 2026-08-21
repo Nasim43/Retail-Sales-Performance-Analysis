@@ -5,8 +5,7 @@ An advanced, end-to-end **Power BI Dashboard** developed to analyze retail store
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ---
 
